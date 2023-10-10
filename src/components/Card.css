@@ -1,0 +1,41 @@
+.card{
+    border: none;
+
+}
+.card-body{
+    padding: 10px 0;
+}
+.heigh{
+    height: 1.5625rem;
+}
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+}
+.superHost{
+    margin: 0;
+    font-size: .6rem;
+    font-weight: 900;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.par2{
+    font-size: .7rem;
+    font-weight: 600;
+    color: #828282;
+    margin: 0;
+}
+
+.fa-star{
+    color: red;
+}
+ 
+
+.title, .raiting{
+    font-size: .8rem;
+    font-weight: 500;
+    margin: 0;
+}
